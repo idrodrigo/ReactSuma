@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ReactSuma/static/css/main.ed0b5e2f.css",
+    "main.js": "/ReactSuma/static/js/main.0fe39630.js",
+    "static/js/787.048acf2b.chunk.js": "/ReactSuma/static/js/787.048acf2b.chunk.js",
+    "index.html": "/ReactSuma/index.html",
+    "main.ed0b5e2f.css.map": "/ReactSuma/static/css/main.ed0b5e2f.css.map",
+    "main.0fe39630.js.map": "/ReactSuma/static/js/main.0fe39630.js.map",
+    "787.048acf2b.chunk.js.map": "/ReactSuma/static/js/787.048acf2b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed0b5e2f.css",
+    "static/js/main.0fe39630.js"
+  ]
+}
